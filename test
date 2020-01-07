@@ -1,2 +1,1 @@
-python
-print 'fileless malware test'
+echo 'fileless malware test'
