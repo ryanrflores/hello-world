@@ -1,0 +1,2 @@
+echo 'fileless malware test'
+start-sleep -s 10
